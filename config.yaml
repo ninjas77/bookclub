@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    ninjas:
+      email: sanjinjf7h@gmail.com
+      name: Sanderas
+      password: "$2b$12$B20RjMbR1IlME3QfyHADYOOtk7e425A0Tit78kt8n6K/6.l7ddZiW"
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: "$2b$12$eaS2/ffbHvN84.4UQenAje8WTr8FS8lps4.uMoEUqSWoq8MY544jS"
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
